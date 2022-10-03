@@ -1,0 +1,8 @@
+["(label[U] == 'T') <= (t_armor[U] <= 6.0) & (ct_armor[U] <= 73.5)",
+"(label[U] == 'CT') <= (ct_armor[U] <= 110.5) & (t_armor[U] <= 6.0) & (ct_armor[U] > 73.5)",
+"(label[U] == 'T') <= (t_armor[U] <= 100.5) & (ct_armor[U] <= 110.5) & (t_armor[U] > 6.0)",
+"(label[U] == 'CT') <= (t_armor[U] <= 100.5) & (ct_armor[U] > 110.5)",
+"(label[U] == 'T') <= (t_armor[U] > 100.5) & (ct_armor[U] <= 279.5)",
+"(label[U] == 'CT') <= (t_armor[U] > 100.5) & (ct_armor[U] > 279.5) & (t_helmets[U] <= 3.5)",
+"(label[U] == 'T') <= (t_armor[U] > 100.5) & (ct_armor[U] > 279.5) & (t_helmets[U] > 3.5) & (ct_armor[U] <= 420.5)",
+"(label[U] == 'CT') <= (t_armor[U] > 100.5) & (t_helmets[U] > 3.5) & (ct_armor[U] > 420.5)"]
