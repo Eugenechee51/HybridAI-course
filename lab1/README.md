@@ -1,4 +1,5 @@
 # Лабораторная работа №1. Представление деревьев решений в виде дизъюнктов Хорна.
+[Ссылка на Colab](https://colab.research.google.com/drive/1I6ZEbY2kLINPQNkJeXIgZhiVKM7Q2BDJ?usp=sharing)
 ##  Выбор набора данных
 В качестве датасета используется [CS:GO Round Winner Classification](https://www.kaggle.com/datasets/christianlillelund/csgo-round-winner-classification?datasetId=833303&sortBy=voteCount), 
 содержащий данные о матчах с турниров по игре CS:GO.
