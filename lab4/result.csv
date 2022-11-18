@@ -1,103 +1,94 @@
 ,objects
-000017_jpg.rf.9529e11095ce388051baf49611ab9e69.jpg,['Glass bottle']
-000008_jpg.rf.39105ce5a438b0c8c38f89bfd7db7f71.jpg,['Single-use carrier bag']
-000083_JPG.rf.c6cf3f118943d75b17178296822697fe.jpg,['Plastic film']
 000020_JPG.rf.d428c5337c54dd6932f273a3c8b2f98b.jpg,"['Other plastic', 'Other plastic bottle']"
-IMG_4865_JPG.rf.74e694a03f8b1d2760e976e34ea83a41.jpg,"['Other carton', 'Other carton', 'Plastic film', 'Corrugated carton']"
-000038_jpg.rf.c317f6eae559db4def0f5ffc41f2898d.jpg,['Unlabeled litter']
-000092_JPG.rf.eab53e7fd7bbc31e321e4658c3326739.jpg,['Unlabeled litter']
-000015_JPG.rf.558d145273dbe6b74d4921fd1bc1ca8b.jpg,"['Metal bottle cap', 'Clear plastic bottle', 'Clear plastic bottle']"
-000042_jpg.rf.262a0686a2612fb2fb2a541eb18792f9.jpg,['Other plastic bottle']
-000061_jpg.rf.d2620f002c2b086a775f4bee70610506.jpg,['Plastic bottle cap']
-000099_jpg.rf.1e0045e7f851400cd2ad8a4abd807357.jpg,['Egg carton']
-000072_JPG.rf.8fb0c53968e07263382d85784afe8619.jpg,"['Meal carton', 'Disposable food container', 'Plastic film']"
+000068_jpg.rf.a26e95f30863aafaecb263490e76f929.jpg,"['Paper cup', 'Foam cup']"
+IMG_4865_JPG.rf.74e694a03f8b1d2760e976e34ea83a41.jpg,"['Crisp packet', 'Corrugated carton']"
+000007_jpg.rf.9670174e9dc315097bdaffad72d43c08.jpg,"['Normal paper', 'Toilet tube', 'Corrugated carton']"
+000085_JPG.rf.87cfe49c64dad0cafb7c2cc8f938cfb7.jpg,['Plastic straw']
+000093_JPG.rf.eb8a5768a3a6ec1c83f5a914707f1ff2.jpg,"['Other plastic', 'Disposable plastic cup', 'Glass bottle']"
+000092_JPG.rf.eab53e7fd7bbc31e321e4658c3326739.jpg,['Plastic film']
+000015_JPG.rf.558d145273dbe6b74d4921fd1bc1ca8b.jpg,"['Drink can', 'Glass bottle', 'Plastic film', 'Clear plastic bottle', 'Clear plastic bottle', 'Metal bottle cap']"
+000099_jpg.rf.1e0045e7f851400cd2ad8a4abd807357.jpg,"['Magazine paper', 'Egg carton']"
+000072_JPG.rf.8fb0c53968e07263382d85784afe8619.jpg,['Tissues']
 000063_JPG.rf.0efeddb15cc7ad7eb3ab4386b7046daa.jpg,['Plastic film']
-000057_jpg.rf.008ebeb33a624ca644331fb6d98a23d1.jpg,"['Other carton', 'Plastic lid']"
-000093_jpg.rf.b2731137be86193b1cea9d8703fcd2a2.jpg,"['Plastic straw', 'Crisp packet', 'Paper bag']"
-000000_jpg.rf.f0e012c4e9f4754a86672f67d42bbc6f.jpg,"['Broken glass', 'Broken glass', 'Broken glass', 'Broken glass', 'Unlabeled litter', 'Plastic film']"
-000083_JPG.rf.d4c986910659e19bbd51c9d118923851.jpg,"['Drink can', 'Other plastic']"
-000115_JPG.rf.b1bf8bc5bb2be3be8a804fb7d87bfba9.jpg,"['Rope', 'Other plastic', 'Drink can', 'Clear plastic bottle']"
-000055_JPG.rf.560886c10600b2874259f5a3bd106c9d.jpg,"['Disposable plastic cup', 'Paper cup']"
-000097_JPG.rf.2e115bfd720b3b69414978b659e98899.jpg,"['Plastic film', 'Paper bag']"
-000084_jpg.rf.4be06d91042c37ad4d58472384780aa7.jpg,"['Metal bottle cap', 'Metal bottle cap', 'Crisp packet', 'Drink can']"
-000035_JPG.rf.332c7ae8f9d420b4b855d7d4df35629b.jpg,"['Other plastic', 'Garbage bag']"
-000081_jpg.rf.6d52cd8a6f3f83ae4d3c488792ac80f3.jpg,"['Other plastic', 'Other plastic']"
-000022_JPG.rf.2bb8a64749d2c3b7afe4f2f09e59a6a8.jpg,['Other plastic']
-000080_JPG.rf.08086db66e4ab13e00b207ce7aca8983.jpg,"['Cigarette', 'Disposable plastic cup', 'Cigarette', 'Cigarette', 'Drink can']"
-000093_JPG.rf.f9f9c32b47a48c03c9a371aecb021647.jpg,"['Clear plastic bottle', 'Clear plastic bottle']"
-000055_jpg.rf.896bd4fb6602b09fa905959e30d96477.jpg,"['Plastic bottle cap', 'Unlabeled litter']"
+000057_jpg.rf.008ebeb33a624ca644331fb6d98a23d1.jpg,['Other plastic']
+000077_JPG.rf.b36cdbfb82bd649d6b49593d0a031641.jpg,['Metal bottle cap']
+000077_jpg.rf.54c131c8432792b7bea4adf9333e8f22.jpg,['Metal bottle cap']
+000042_jpg.rf.56f54835255da38c45dc6054db3fa65e.jpg,['Other plastic bottle']
+000093_jpg.rf.b2731137be86193b1cea9d8703fcd2a2.jpg,"['Crisp packet', 'Crisp packet', 'Crisp packet', 'Crisp packet']"
+000083_JPG.rf.d4c986910659e19bbd51c9d118923851.jpg,['Drink can']
+000115_JPG.rf.b1bf8bc5bb2be3be8a804fb7d87bfba9.jpg,"['Drink can', 'Other plastic', 'Clear plastic bottle']"
+000055_JPG.rf.560886c10600b2874259f5a3bd106c9d.jpg,"['Other plastic bottle', 'Drink can', 'Paper cup']"
+000097_JPG.rf.2e115bfd720b3b69414978b659e98899.jpg,"['Other plastic', 'Glass bottle']"
+000084_jpg.rf.4be06d91042c37ad4d58472384780aa7.jpg,"['Crisp packet', 'Crisp packet']"
+000035_JPG.rf.332c7ae8f9d420b4b855d7d4df35629b.jpg,['Drink can']
+000022_JPG.rf.2bb8a64749d2c3b7afe4f2f09e59a6a8.jpg,"['Other plastic bottle', 'Other plastic']"
+000002_jpg.rf.85c256e39bbfd94dbb5d7528175bab99.jpg,['Disposable plastic cup']
+IMG_4876_JPG.rf.e92b9a63ffd8a73ecefd0604f187bb5f.jpg,['Plastic film']
 000088_JPG.rf.1153fe55cd6cc72fa8714595608279f2.jpg,['Drink can']
+000089_jpg.rf.910c0aa118653b6cdf6013f5fffaff19.jpg,"['Drink can', 'Drink can', 'Drink can', 'Drink can']"
 000039_jpg.rf.1ee61273e6e49793d9aa0357eb331ff9.jpg,['Clear plastic bottle']
-000031_jpg.rf.36822e558b8a14035e55d5c02ce9c750.jpg,"['Plastic film', 'Clear plastic bottle', 'Clear plastic bottle']"
-000049_jpg.rf.8d05b7d8548683109f8327da1b0512da.jpg,['Plastic lid']
+000024_jpg.rf.53d8d7390d2b92bb92efe21341eed434.jpg,['Drink can']
+000031_jpg.rf.36822e558b8a14035e55d5c02ce9c750.jpg,"['Drink can', 'Clear plastic bottle']"
+000049_jpg.rf.8d05b7d8548683109f8327da1b0512da.jpg,"['Disposable plastic cup', 'Plastic lid']"
 000069_JPG.rf.d54cc88e91466f362e73932f224d15f6.jpg,['Drink can']
-000010_jpg.rf.70cca5ae93165d40066cd51d2cd5b1e8.jpg,"['Normal paper', 'Metal bottle cap', 'Crisp packet', 'Clear plastic bottle']"
-000063_jpg.rf.669c04ff36d36157fa66829d92526907.jpg,"['Plastic film', 'Styrofoam piece', 'Aluminium foil', 'Plastic film']"
-000013_JPG.rf.49f9438e62329f13ded6dcdc4e4a9e9b.jpg,"['Other plastic bottle', 'Plastic bottle cap']"
-000058_JPG.rf.e43bbb5c8c697582b8a27959cf30315a.jpg,"['Clear plastic bottle', 'Clear plastic bottle', 'Plastic film']"
-000017_jpg.rf.514aba0957dc303d63c4f882fb260fc7.jpg,"['Plastic film', 'Glass bottle']"
-000083_jpg.rf.4bd0d8af8785064af8c4b42fadd04cd7.jpg,['Clear plastic bottle']
-IMG_4997_JPG.rf.53a6f13b64a8fee5141b190d013ac328.jpg,"['Plastic film', 'Plastic film', 'Metal bottle cap', 'Glass bottle', 'Other plastic']"
-000067_jpg.rf.020e1d8ec2171a8ea5579e6c8584bfc1.jpg,['Disposable plastic cup']
-000073_JPG.rf.d15a291ca430666109855d1c1c85d9fa.jpg,"['Cigarette', 'Cigarette', 'Drink can']"
-000071_jpg.rf.6862ddfffdf7cfbb0919b7d6d664fe64.jpg,['Plastic straw']
-000011_JPG.rf.51af8a32a67b82be612ec5dc581956e7.jpg,"['Clear plastic bottle', 'Other plastic']"
-000032_jpg.rf.6aa824722229c24c0a4d2c42412c9f33.jpg,"['Other plastic bottle', 'Plastic film', 'Other plastic bottle', 'Other plastic bottle']"
-000043_jpg.rf.4bcdbef9aab72b04f619d7ca6a29188f.jpg,"['Disposable plastic cup', 'Other plastic']"
-000026_JPG.rf.5d227961e0ad24398a7e0631f2fcb515.jpg,['Other plastic']
-000091_JPG.rf.e90d787515652df5388ad7e17e972039.jpg,['Other plastic']
-000045_jpg.rf.8336fa901852fc840b49bebed22288a1.jpg,['Clear plastic bottle']
+000010_jpg.rf.70cca5ae93165d40066cd51d2cd5b1e8.jpg,['Clear plastic bottle']
+000063_jpg.rf.669c04ff36d36157fa66829d92526907.jpg,"['Plastic film', 'Styrofoam piece']"
+000058_JPG.rf.e43bbb5c8c697582b8a27959cf30315a.jpg,"['Plastic film', 'Plastic film']"
+000017_jpg.rf.514aba0957dc303d63c4f882fb260fc7.jpg,['Plastic film']
+IMG_4997_JPG.rf.53a6f13b64a8fee5141b190d013ac328.jpg,['Drink can']
+000073_JPG.rf.d15a291ca430666109855d1c1c85d9fa.jpg,"['Cigarette', 'Drink can', 'Clear plastic bottle']"
+000011_JPG.rf.51af8a32a67b82be612ec5dc581956e7.jpg,"['Other plastic bottle', 'Other plastic bottle']"
+000032_jpg.rf.6aa824722229c24c0a4d2c42412c9f33.jpg,"['Clear plastic bottle', 'Other plastic bottle']"
+000043_jpg.rf.4bcdbef9aab72b04f619d7ca6a29188f.jpg,"['Drink can', 'Clear plastic bottle']"
+000026_JPG.rf.5d227961e0ad24398a7e0631f2fcb515.jpg,"['Crisp packet', 'Other carton']"
+000091_JPG.rf.e90d787515652df5388ad7e17e972039.jpg,['Clear plastic bottle']
 000028_JPG.rf.2f4ad17c7cfca2998c1efdb3afccd3b5.jpg,['Other plastic bottle']
-000104_JPG.rf.f4c8e0d898b4b3cd1d41b4b3dac15b76.jpg,"['Drink carton', 'Clear plastic bottle', 'Corrugated carton', 'Corrugated carton', 'Meal carton', 'Other carton']"
-IMG_4967_JPG.rf.843f9b00dfd70559c55a42674926864b.jpg,"['Drink can', 'Other plastic container']"
-IMG_4926_JPG.rf.8ed0115026aee1c2485ed737d783e780.jpg,['Clear plastic bottle']
-000035_jpg.rf.6b6b6e9f4dc76bf927daeb4742e8fecb.jpg,['Drink can']
-000117_JPG.rf.01a591a686cc57903e20901063a9850d.jpg,"['Styrofoam piece', 'Other plastic bottle', 'Other plastic bottle']"
-000034_jpg.rf.19edf7db5a603d080e9520e0ac405631.jpg,"['Other plastic', 'Other plastic', 'Cigarette', 'Plastic film', 'Cigarette', 'Cigarette', 'Cigarette', 'Cigarette', 'Cigarette', 'Cigarette', 'Cigarette']"
-000022_jpg.rf.79437182715c3cd9609914168a64d23d.jpg,['Other plastic bottle']
-000139_JPG.rf.7c464e0a2d1e1a659a047a05551785cb.jpg,"['Rope', 'Other plastic bottle']"
-IMG_5037_JPG.rf.6029fbc9b35ce4bf63b1d5eee010567b.jpg,['Glass bottle']
-000100_JPG.rf.82ff173509ac2e3e7a4cd23118143751.jpg,['Other plastic bottle']
-000057_jpg.rf.60ee964af20fc09c90e609ff6783f22e.jpg,"['Metal bottle cap', 'Meal carton']"
+000104_JPG.rf.f4c8e0d898b4b3cd1d41b4b3dac15b76.jpg,"['Glass bottle', 'Clear plastic bottle', 'Corrugated carton']"
+IMG_4926_JPG.rf.8ed0115026aee1c2485ed737d783e780.jpg,"['Clear plastic bottle', 'Clear plastic bottle', 'Clear plastic bottle']"
+000117_JPG.rf.01a591a686cc57903e20901063a9850d.jpg,"['Other plastic bottle', 'Plastic bottle cap', 'Styrofoam piece', 'Other plastic bottle', 'Other plastic bottle', 'Other plastic bottle', 'Other plastic bottle']"
+000052_JPG.rf.3a741c595558a6b4c2e3b5bde1c4ecfd.jpg,"['Normal paper', 'Unlabeled litter', 'Plastic straw', 'Other plastic']"
+000034_jpg.rf.19edf7db5a603d080e9520e0ac405631.jpg,"['Normal paper', 'Drink can']"
+000139_JPG.rf.7c464e0a2d1e1a659a047a05551785cb.jpg,['Cigarette']
+IMG_5037_JPG.rf.6029fbc9b35ce4bf63b1d5eee010567b.jpg,['Plastic film']
 000043_JPG.rf.42d729e382e08d52643576f1b4a46140.jpg,['Plastic film']
-000036_jpg.rf.6bcc94bc7141f9b22dcd0fbdb05b2604.jpg,"['Other plastic', 'Plastic film']"
-000075_jpg.rf.50a676518be1a295b9f9f2f7fe3ef7be.jpg,['Paper bag']
-000000_jpg.rf.c8c5a84c1024029e4083398c3475b279.jpg,['Crisp packet']
-IMG_4928_JPG.rf.bab9a2e15fd4ddb82fe2d8f1582812ff.jpg,['Plastic straw']
-000093_JPG.rf.3355abd267f5ea18a953a49ed8309aa3.jpg,"['Styrofoam piece', 'Unlabeled litter', 'Other plastic', 'Styrofoam piece']"
-000072_jpg.rf.1ff8b81a615d62f8d33a21057e159ea0.jpg,"['Plastic film', 'Other carton', 'Plastic straw', 'Plastic lid']"
-000013_jpg.rf.ddd58c4f6b3f3cab60018513ac20e9f3.jpg,"['Cigarette', 'Plastic straw', 'Cigarette']"
-000038_JPG.rf.af200b43cdfccbf882e8532f19ed1efe.jpg,['Styrofoam piece']
-000073_JPG.rf.ea4979b59c60ec74801d06786bc84ccf.jpg,"['Metal bottle cap', 'Paper cup']"
-000045_jpg.rf.e63acea54b86e76f6a13b425c9847f6c.jpg,"['Magazine paper', 'Corrugated carton', 'Clear plastic bottle']"
-000045_jpg.rf.40e4f8e249319caaa586190983d3c3e0.jpg,['Other plastic']
-000090_JPG.rf.644c9384d44a423ecbc25a3f433bec3b.jpg,"['Plastic bottle cap', 'Clear plastic bottle']"
-000005_jpg.rf.5b52d5fcce9b086bb627a0d1469c3887.jpg,['Other plastic']
-000004_jpg.rf.45a72f2222094f1ea03c0627f8b8f730.jpg,"['Unlabeled litter', 'Other plastic container', 'Aerosol', 'Clear plastic bottle']"
-IMG_4915_JPG.rf.c38c255a030ae4c18a57625171f6f372.jpg,"['Other plastic container', 'Plastic bottle cap', 'Other carton', 'Other plastic container']"
-000070_JPG.rf.d2635df10fea38d68c1a442587cafe2d.jpg,"['Plastic bottle cap', 'Clear plastic bottle', 'Clear plastic bottle']"
-000128_JPG.rf.e6f7701afc88098573df766dd10365c1.jpg,"['Plastic film', 'Cigarette', 'Cigarette', 'Cigarette', 'Other plastic bottle', 'Plastic film']"
-000062_JPG.rf.c7250880526fb41b775ff557010a8466.jpg,['Plastic film']
-000096_JPG.rf.df7c3101e6f24deef866f07cf9f3faa4.jpg,"['Cigarette', 'Unlabeled litter']"
-000054_jpg.rf.15cc33d9b6ed7f66d6bbf7d31ccae978.jpg,"['Other plastic container', 'Plastic bottle cap', 'Aerosol', 'Plastic lid', 'Paper cup', 'Other plastic container', 'Other plastic container']"
-000031_jpg.rf.6e20b51c672fe2bc8292b000f1a7be88.jpg,"['Drink can', 'Plastic bottle cap', 'Clear plastic bottle']"
-000005_JPG.rf.a3d3078ae9ac5e1abe8a51ac88121273.jpg,['Plastic film']
-000041_jpg.rf.f95ca1009e0df79fb7ba7684da6d8862.jpg,"['Disposable plastic cup', 'Clear plastic bottle', 'Clear plastic bottle', 'Cigarette', 'Disposable food container', 'Clear plastic bottle']"
-000034_JPG.rf.18fa8e3ee2ed96238374768ddfffc431.jpg,"['Plastic bottle cap', 'Clear plastic bottle', 'Clear plastic bottle']"
-000052_jpg.rf.d723eb5c822cbc05798ce04a2dc68113.jpg,"['Paper bag', 'Plastic film']"
-000049_jpg.rf.2f958311ed8ecf5a68543e505f848b5c.jpg,['Aerosol']
-000000_JPG.rf.3144ee029a987258a2aaaf0ebf2b01c8.jpg,"['Normal paper', 'Drink carton']"
-IMG_5039_JPG.rf.bd8b9de36e5e8c36c4a1a5101af1d174.jpg,"['Metal bottle cap', 'Plastic bottle cap']"
-000035_jpg.rf.321d8a5c66e85f2c546bdcb173a67a63.jpg,"['Other plastic bottle', 'Plastic film']"
-IMG_4994_JPG.rf.61eeec3c50c7499909681c6b2d782d69.jpg,['Drink can']
-000015_JPG.rf.e7dc6ca14e6cb57c1b1d63fb89d7d2d4.jpg,['Normal paper']
-000027_jpg.rf.b87bef47b79500f4f714ef0e13a705b4.jpg,"['Plastic film', 'Plastic film', 'Plastic film', 'Plastic film']"
-000041_jpg.rf.85291ff439ac0a85f606b055f38acaa9.jpg,['Other plastic']
-000000_JPG.rf.fadf92df9bf682513fc56e64a10ff814.jpg,"['Plastic straw', 'Other carton']"
-000015_jpg.rf.7b7e56e650f32d351b40e89aa4d1f30e.jpg,"['Unlabeled litter', 'Other carton', 'Cigarette', 'Cigarette']"
-000030_JPG.rf.42a1444df15359ddc8d13cdc36049945.jpg,['Clear plastic bottle']
-000061_JPG.rf.3767257e4c0b8bd69af6c62a04d559b8.jpg,"['Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope', 'Rope']"
+000046_jpg.rf.00b8e2bcc3ea7b4a4a58dbc090cab0a7.jpg,['Other plastic']
+000036_jpg.rf.6bcc94bc7141f9b22dcd0fbdb05b2604.jpg,['Plastic film']
+000075_jpg.rf.50a676518be1a295b9f9f2f7fe3ef7be.jpg,"['Drink can', 'Drink can']"
+000000_jpg.rf.c8c5a84c1024029e4083398c3475b279.jpg,['Plastic film']
+IMG_4928_JPG.rf.bab9a2e15fd4ddb82fe2d8f1582812ff.jpg,['Plastic film']
+000093_JPG.rf.3355abd267f5ea18a953a49ed8309aa3.jpg,['Styrofoam piece']
+000072_jpg.rf.1ff8b81a615d62f8d33a21057e159ea0.jpg,"['Plastic lid', 'Other plastic', 'Plastic bottle cap']"
+000013_jpg.rf.ddd58c4f6b3f3cab60018513ac20e9f3.jpg,['Cigarette']
+000038_JPG.rf.af200b43cdfccbf882e8532f19ed1efe.jpg,"['Other plastic', 'Plastic film']"
+000073_JPG.rf.ea4979b59c60ec74801d06786bc84ccf.jpg,"['Styrofoam piece', 'Styrofoam piece']"
+000045_jpg.rf.e63acea54b86e76f6a13b425c9847f6c.jpg,['Magazine paper']
+000015_jpg.rf.31af2358b452c76d5a3b832e9396d25d.jpg,['Plastic straw']
+000045_jpg.rf.40e4f8e249319caaa586190983d3c3e0.jpg,['Plastic film']
+000090_JPG.rf.644c9384d44a423ecbc25a3f433bec3b.jpg,['Plastic bottle cap']
+000005_jpg.rf.5b52d5fcce9b086bb627a0d1469c3887.jpg,"['Plastic film', 'Other plastic']"
+000004_jpg.rf.45a72f2222094f1ea03c0627f8b8f730.jpg,"['Plastic straw', 'Other plastic', 'Other plastic container']"
+IMG_4915_JPG.rf.c38c255a030ae4c18a57625171f6f372.jpg,"['Other plastic container', 'Pop tab', 'Other plastic container']"
+000082_JPG.rf.09d9c2a2902ad8081507b4b574918b22.jpg,['Plastic film']
+000070_JPG.rf.d2635df10fea38d68c1a442587cafe2d.jpg,"['Plastic bottle cap', 'Clear plastic bottle']"
+000128_JPG.rf.e6f7701afc88098573df766dd10365c1.jpg,"['Plastic film', 'Plastic film', 'Plastic film']"
+000096_JPG.rf.df7c3101e6f24deef866f07cf9f3faa4.jpg,['Clear plastic bottle']
+000054_jpg.rf.15cc33d9b6ed7f66d6bbf7d31ccae978.jpg,"['Food Can', 'Plastic lid', 'Other plastic container', 'Other plastic container']"
+000031_jpg.rf.6e20b51c672fe2bc8292b000f1a7be88.jpg,"['Other plastic bottle', 'Clear plastic bottle']"
+000005_JPG.rf.a3d3078ae9ac5e1abe8a51ac88121273.jpg,"['Plastic film', 'Crisp packet', 'Crisp packet']"
+000041_jpg.rf.f95ca1009e0df79fb7ba7684da6d8862.jpg,"['Plastic film', 'Crisp packet']"
+000034_JPG.rf.18fa8e3ee2ed96238374768ddfffc431.jpg,"['Drink can', 'Drink can', 'Clear plastic bottle', 'Clear plastic bottle']"
+000052_jpg.rf.d723eb5c822cbc05798ce04a2dc68113.jpg,"['Styrofoam piece', 'Drink can', 'Normal paper']"
+000049_jpg.rf.2f958311ed8ecf5a68543e505f848b5c.jpg,"['Tissues', 'Paper cup', 'Tissues']"
+000078_jpg.rf.66aea72e08e0f82605cee6910f04ff45.jpg,"['Cigarette', 'Normal paper', 'Normal paper', 'Cigarette', 'Other plastic bottle', 'Normal paper']"
+000000_JPG.rf.3144ee029a987258a2aaaf0ebf2b01c8.jpg,['Disposable plastic cup']
+000035_jpg.rf.321d8a5c66e85f2c546bdcb173a67a63.jpg,"['Plastic straw', 'Plastic film']"
+IMG_4994_JPG.rf.61eeec3c50c7499909681c6b2d782d69.jpg,['Clear plastic bottle']
+000064_jpg.rf.65ad8bc84b1c92813d90deaa414b8793.jpg,['Unlabeled litter']
+000015_JPG.rf.e7dc6ca14e6cb57c1b1d63fb89d7d2d4.jpg,"['Cigarette', 'Cigarette', 'Clear plastic bottle']"
+000027_jpg.rf.b87bef47b79500f4f714ef0e13a705b4.jpg,"['Plastic film', 'Clear plastic bottle', 'Plastic film', 'Plastic film', 'Plastic film', 'Plastic film']"
+000041_jpg.rf.85291ff439ac0a85f606b055f38acaa9.jpg,"['Other plastic', 'Styrofoam piece']"
+000015_jpg.rf.7b7e56e650f32d351b40e89aa4d1f30e.jpg,"['Cigarette', 'Cigarette', 'Normal paper']"
 000050_JPG.rf.326325d64053fa5c4a405b604cf11b5d.jpg,['Clear plastic bottle']
 000011_JPG.rf.e597285d3ea6c3962d7ad030a28aada8.jpg,['Plastic film']
-000082_JPG.rf.bfee2a64489c7904df9a15284a71de30.jpg,"['Styrofoam piece', 'Other plastic']"
-000031_JPG.rf.fe2600f1d33fbfeb0dc6be764bff44c7.jpg,"['Paper bag', 'Clear plastic bottle', 'Plastic film']"
+000082_JPG.rf.bfee2a64489c7904df9a15284a71de30.jpg,"['Disposable plastic cup', 'Other plastic', 'Paper cup']"
+000031_JPG.rf.fe2600f1d33fbfeb0dc6be764bff44c7.jpg,['Single-use carrier bag']
